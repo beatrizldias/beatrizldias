@@ -1,4 +1,4 @@
-### Olá, eu sou o Felipe Rocha! 👋
+### Olá, eu sou a Beatriz Dias! 👋
 
 - 🔭 Em transição de carreira para a área de Desenvolvimento Web Full Stack 
 - 📫 Contate-me no e-mail: beatrizl.dias@outlook.com
